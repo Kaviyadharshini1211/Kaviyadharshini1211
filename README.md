@@ -1,14 +1,18 @@
 <!--
 ✨ GitHub Profile README Template
-Paste this into a repo named <YOUR_USERNAME>/<YOUR_USERNAME> to make it your profile README.
+Paste this into a repo named <Kaviyadharshini1211>/<Kaviyadharshini1211> to make it your profile README.
 Replace ALL-CAPS placeholders. You can remove any sections you don't want.
 -->
 
 <div align="center">
 
+<!-- ✨ Animated typing banner (optional) -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&color=00F7FF&random=false&width=600&lines=Hi+there+👋;I'm+YOUR_NAME;Full‑Stack+Developer+%7C+DevOps+%7C+ML+Enthusiast!" alt="Typing animation" />
+
 # 👋 Hi, I'm **Kaviyadharshini Maheshkumar**
 
-**YOUR_TAGLINE** · *e.g., Full‑Stack Developer | DevOps | ML enthusiast*
+**MERN Stack Developer · Machine Learning Enthusiast** · *e.g., Full‑Stack Developer | DevOps | ML enthusiast*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
@@ -30,23 +34,15 @@ Replace ALL-CAPS placeholders. You can remove any sections you don't want.
 
 ---
 
-## 🧰 Tech toolbox
+## 🧰 Tech Toolbox (Animated)
 
-**Languages:** JavaScript/TypeScript · Python · Java · C++ · SQL
+<p align="center">
 
-**Frontend:** React · Next.js · Redux Toolkit · Tailwind CSS · HTML/CSS · Vite/Webpack
+<!-- Animated tech icons -->
 
-**Backend:** Node.js · Express · REST · GraphQL · WebSockets · JWT/Auth
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,java,cpp,python,git,docker,jenkins,aws,tensorflow,pytorch&perline=8" />
 
-**Databases:** MongoDB (Atlas) · PostgreSQL · Redis (cache/queues)
-
-**DevOps:** Docker · Jenkins · GitHub Actions · CI/CD · Nginx · Linux
-
-**Cloud & Infra:** AWS (EC2, S3, CloudFront) · Vercel · Netlify · Railway · Render
-
-**Data/ML (optional):** NumPy · Pandas · scikit‑learn · PyTorch · Hugging Face
-
-> *Tip:* Keep this list honest and focused. Recruiters prefer depth over buzzwords.
+</p>
 
 ---
 
@@ -57,16 +53,16 @@ Replace ALL-CAPS placeholders. You can remove any sections you don't want.
 * **📦 Project 1 — *Your App Name***
   Short value‑driven description (what it solves, for whom).
   **Stack:** React · Node · MongoDB · Redis · Docker
-  **Demo:** https://YOUR_DEMO_URL · **Repo:** [https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/YOUR_USERNAME/YOUR_REPO)
+  **Demo:** https://YOUR_DEMO_URL · **Repo:** [https://github.com/Kaviyadharshini1211/YOUR_REPO](https://github.com/Kaviyadharshini1211/YOUR_REPO)
 
 * **🧠 Project 2 — *Smart Recommender***
   Real‑time product recommendations with Redis streams & cosine similarity.
   **Stack:** Next.js · FastAPI · PostgreSQL · Redis
-  **Repo:** [https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/YOUR_USERNAME/YOUR_REPO)
+  **Repo:** [https://github.com/Kaviyadharshini1211/YOUR_REPO](https://github.com/Kaviyadharshini1211/YOUR_REPO)
 
 * **🛠️ Project 3 — *DevOps Pipeline***
   Production‑ready CI/CD with Docker + Jenkins + GitHub Actions.
-  **Docs:** `/docs` · **Repo:** [https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/YOUR_USERNAME/YOUR_REPO)
+  **Docs:** `/docs` · **Repo:** [https://github.com/Kaviyadharshini1211/YOUR_REPO](https://github.com/Kaviyadharshini1211/YOUR_REPO)
 
 ---
 
@@ -75,12 +71,12 @@ Replace ALL-CAPS placeholders. You can remove any sections you don't want.
 > These images render dynamically. If they don't load on first try, refresh.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyadharshini1211&show_icons=true" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Kaviyadharshini1211" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyadharshini1211&layout=compact" alt="Top languages" />
 </p>
 
 ---
@@ -123,7 +119,7 @@ See sample workflow below. For now, add a few static links. -->
 
 ### 🔧 Setup notes
 
-1. Create a new repository named exactly **`YOUR_USERNAME`** (must match your GitHub username).
+1. Create a new repository named exactly **`Kaviyadharshini1211`** (must match your GitHub username).
 2. Add this file as **`README.md`** at the repo root.
 3. Commit & push — it becomes your profile README instantly.
 
@@ -160,4 +156,3 @@ jobs:
 > *“Great software is grown, not just built.”*
 
 </div>
-
