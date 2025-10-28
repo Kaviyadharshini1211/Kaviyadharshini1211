@@ -156,3 +156,9 @@ jobs:
 > *“Great software is grown, not just built.”*
 
 </div>
+
+---
+
+<!-- 🐍 Snake animation on contribution graph -->
+
+![snake gif](https://github.com/Kaviyadharshini1211/Kaviyadharshini1211/blob/output/github-contribution-grid-snake.svg)
